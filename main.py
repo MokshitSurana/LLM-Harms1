@@ -30,7 +30,7 @@ def create_model(llm_name):
         temperature=0.4,
         max_tokens=1024,
         top_k=50,
-        together_api_key="ef98f44e5b21c4c0766d61e00538c988987e90c64d3445744e19367c563b10dc",
+        together_api_key="00bfcea3b5973323ed463d065fd4264a5a74dffa86df42b7954bcfca6784bc2a",
     )
 
 
